@@ -1,0 +1,74 @@
+{
+    "skill": [{
+        "category": "Mobile Technology",
+        "subskills": [
+            "Android",
+            "Android Studio",
+            "MVC Architecture, OOP Concepts",
+            "Adobe XD, Figma"
+        ]
+    }, {
+        "category": "Web Technology",
+        "subskills": [
+            "HTML, CSS, Javascript, jQuery",
+            "ReacJS, NodeJS, Wordpress, Shopify, Bootstrap, Json",
+            "PHP, Java, Python, C/C++, C#",
+            "Visual Studio Code, IntelliJ IDEA, XAMPP, Postman, FileZilla"
+        ]
+    }, {
+        "category": "Database",
+        "subskills": [
+            "SQL, MySQL, PGSQL",
+            "SQL Server, Firebase, SQLite",
+            "Oracle, MongoDB"
+        ]
+    }, {
+        "category": "Soft Skills",
+        "subskills": [
+            "Team Player, Time Management",
+            "Fast Learner, Problem Solving",
+            "Good Communication, Analytical Skills"
+        ]
+    }],
+    "work": [{
+        "title": "Chat Web Application",
+        "imageSrc": "images/work/chatappportfolio.png",
+        "link": "https://github.com/RahulNathani49/Chat-App",
+        "description": "Built a dynamic chat platform leveraging Node.js, PeerJS, and Socket.IO, enabling real-time communication and seamless peer-to-peer connections for users."
+    }, {
+        "title": "Beauty Product Website",
+        "imageSrc": "images/work/beautywebportfolio.png",
+        "link": "http://bringasoft.com/souslesjasminsdudesert",
+        "description": "Crafted a stunning beauty product website design, integrating eye-catching visuals and intuitive navigation to showcase our diverse range of skincare and cosmetics."
+    }, {
+        "title": "Shopping Website",
+        "imageSrc": "images/work/shoppingportfolio.png",
+        "link": "https://github.com/RahulNathani49/TicTacToe-Java",
+        "description": "Developed a robust shopping website using Java, coupled with a powerful database backend. Seamlessly integrated features for browsing, purchasing, and managing products, offering users a smooth and secure shopping experience. Leveraged Java's versatility and database management capabilities to ensure scalability and reliability."
+    }, {
+        "title": "Tic Tac Toe",
+        "imageSrc": "images/work/tictoc.png",
+        "link": "https://github.com/RahulNathani49/TicTacToe-Java",
+        "description": "Implemented a classic game of Tic Tac Toe in Java, featuring a 3x3 grid where two players take turns placing their marks ('X' or 'O') utilizing a console-based interface"
+    }, {
+        "title": "Digix Website UI UX",
+        "imageSrc": "images/work/digixportfolio.png.png",
+        "link": "https://digix.netlify.app/",
+        "description": "Designed the Digix web interface with a focus on user experience (UX) and user interface (UI) principles, ensuring a seamless and intuitive platform for users. Incorporated modern design elements and interactive features to enhance engagement and navigation. "
+    }, {
+        "title": "Edgy Magazine",
+        "imageSrc": "images/work/edgyportfolio.png",
+        "link": "https://edgymag.com/",
+        "description": "Developed a visually captivating magazine website utilizing Shopify's versatile platform, seamlessly blending engaging content with effortless shopping capabilities. Our design focuses on user engagement and intuitive navigation, ensuring a seamless transition between browsing articles and exploring products. With a keen eye for aesthetics and functionality, our website offers a holistic online experience that captivates and converts visitors."
+    }],
+    "testimonials": [{
+            "quote": "Rahul is an invaluable asset, showcasing exceptional commitment, expertise, and a positive, supportive approach in Web development.",
+            "author": "Karim Weslati",
+            "link": "https://www.linkedin.com/in/rahul-nathani-7bba881a8"
+        },
+        {
+            "quote": "Rahul Nathani: A visionary web developer crafting tomorrow's digital experiences today.",
+            "author": "Bringasoft Inc."
+        }
+    ]
+}
