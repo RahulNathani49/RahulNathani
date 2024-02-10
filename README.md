@@ -4,16 +4,6 @@
 <p align="center">
    Aspiring Web App Developer
 </p>
-
-<p align="center">
-  <a href="https://github.com/rahulnathani49">
-    <img alt="GitHub followers" src="https://avatars.githubusercontent.com/u/44030477?v=4">
-  </a>
-  <a href="https://www.linkedin.com/in/rahul-nathani-7bba881a8">
-    <img alt="LinkedIn" src="images/personal/rahulimage4.png">
-  </a>
-</p>
-
 Hey there! 👋 I'm Rahul Nathani, aspiring Web Developer. I'm on a journey to become Web Ninja, and I love creating intuitive and delightful web experiences.
 
 ## About Me
