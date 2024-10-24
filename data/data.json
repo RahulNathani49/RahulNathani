@@ -55,7 +55,14 @@
         "imageSrc": "images/work/digixportfolio.png.png",
         "link": "https://digix.netlify.app/",
         "description": "Designed the Digix web interface with a focus on user experience (UX) and user interface (UI) principles, ensuring a seamless and intuitive platform for users. Incorporated modern design elements and interactive features to enhance engagement and navigation. "
-    }, {
+    }, 
+        {
+        "title": "Invoice Management Nextjs",
+        "imageSrc": "images/njs1.png",
+        "link": "https://invoice-management-next-js-6ag4.vercel.app/",
+        "description": "The Invoice Management project, built using Next.js, is a web application designed to streamline the creation, tracking, and management of invoices. It allows users to generate and send invoices, track payment statuses, and manage client information efficiently. The app includes features like invoice history, automated calculations, and real-time updates, providing a seamless experience for businesses looking to manage their billing processes. Next.js ensures fast performance, server-side rendering, and scalability, making the application suitable for growing businesses needing a reliable invoicing solution."
+    }, 
+        {
         "title": "Edgy Magazine",
         "imageSrc": "images/work/edgyportfolio.png",
         "link": "https://edgymag.com/",
